@@ -1,4 +1,4 @@
-# MATH42815 Machine Learning - Assignment 2
+
 # Wine Quality Prediction: Elastic Net vs Random Forest
 # Data: UCI Wine Quality (Vinho Verde, Portugal)
 
