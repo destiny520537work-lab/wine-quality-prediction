@@ -1,0 +1,11 @@
+# Data files (download from UCI)
+data/*.csv
+
+# R session files
+.Rhistory
+.RData
+.Rproj.user/
+
+# OS files
+.DS_Store
+Thumbs.db
